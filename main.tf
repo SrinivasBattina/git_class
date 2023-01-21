@@ -1,1 +1,3 @@
-# this is main file
+# Creating main content of terraform
+
+# resource creation block comes here
