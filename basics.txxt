@@ -1,0 +1,33 @@
+git
+	- Account
+	- setup in our machine (widows and Linux)
+	- create repo on github.com and clone in to our machine
+	- make repo as private and collaborate with other team member
+	- branch creations
+	- git code push strategies
+		- pull the changes before you push code
+		- to not to get the conflicts, stash your changes before you pull
+		- pop your stashed changes after you pull (git stash pop)
+	- branch restrictions
+	- PR(merge request/ Pull request)
+
+	- webhook configurations
+	
+
+	- git shortcuts
+
+    $ git config --global alias.co checkout
+    $ git config --global alias.br branch
+    $ git config --global alias.ci commit
+    $ git config --global alias.st status
+
+	- git credentials config
+
+
+terraform
+
+
+azure
+	
+
+jenkins
